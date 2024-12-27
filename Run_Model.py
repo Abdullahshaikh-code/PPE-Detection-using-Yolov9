@@ -10,4 +10,4 @@ def custom_yolo_run():
     )
 
 if __name__ == "__main__":
-    custom_yolo_run()
+    custom_yolo_run()m
